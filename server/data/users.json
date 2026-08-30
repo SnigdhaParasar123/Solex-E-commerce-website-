@@ -1,0 +1,19 @@
+[
+  {
+    "id": "user-demo-1",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@example.com",
+    "password": "$2b$10$IX7XSfYEgvo1VMkm4Yn7N.aIDQLfRa4UWOTDZLeOJgx65803axIgC",
+    "role": "customer",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+    "phone": "+1 (555) 234-5678",
+    "address": {
+      "street": "742 Evergreen Terrace",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97201",
+      "country": "United States"
+    },
+    "createdAt": "2026-08-30T13:45:23.695Z"
+  }
+]
